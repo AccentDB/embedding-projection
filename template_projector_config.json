@@ -1,12 +1,12 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "accentDB_4_classes",
       "tensorShape": [
         1000,
-        50
+        6487
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://media.githubusercontent.com/media/AccentDB/embedding-projection/master/accent_4_embed_250.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/AccentDB/embedding-projection/master/accents_4_metadata_250.tsv"
     }
   ]
